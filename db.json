@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-serverTwo",
+      "author": "typicodeTwo"
+    },
+    {
+      "id": 5,
+      "title": "json-serverThree",
+      "author": "typicodeThree"
+    },
+    {
+      "title": "json-serverThree",
+      "author": "typicodeThree",
+      "id": 6
+    },
+    {
+      "title": "json-serverThree",
+      "author": "typicodeThree",
+      "id": 8
+    },
+    {
+      "title": "json-serverThree",
+      "author": "typicodeThree",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
